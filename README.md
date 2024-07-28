@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dineshsk12/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dineshsk12/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0274-h-index](https://github.com/Dineshsk12/Leetcode/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Dineshsk12/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,4 +31,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Dineshsk12/Leetcode/tree/master/0274-h-index) |
+## Hash Table
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Dineshsk12/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Math
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Dineshsk12/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Dineshsk12/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Dineshsk12/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
