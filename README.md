@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Dineshsk12/Leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dineshsk12/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Dineshsk12/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0890-lemonade-change](https://github.com/Dineshsk12/Leetcode/tree/master/0890-lemonade-change) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dineshsk12/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Dineshsk12/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Dineshsk12/Leetcode/tree/master/0135-candy) |
+| [0890-lemonade-change](https://github.com/Dineshsk12/Leetcode/tree/master/0890-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
