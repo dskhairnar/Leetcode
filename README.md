@@ -166,4 +166,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Dineshsk12/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [2803-modify-graph-edge-weights](https://github.com/Dineshsk12/Leetcode/tree/master/2803-modify-graph-edge-weights) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2803-modify-graph-edge-weights](https://github.com/Dineshsk12/Leetcode/tree/master/2803-modify-graph-edge-weights) |
+## Shortest Path
+|  |
+| ------- |
+| [2803-modify-graph-edge-weights](https://github.com/Dineshsk12/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 <!---LeetCode Topics End-->
