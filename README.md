@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Dineshsk12/Leetcode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Dineshsk12/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Dineshsk12/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2155-find-missing-observations](https://github.com/Dineshsk12/Leetcode/tree/master/2155-find-missing-observations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Dineshsk12/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Dineshsk12/Leetcode/tree/master/0048-rotate-image) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dineshsk12/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [2155-find-missing-observations](https://github.com/Dineshsk12/Leetcode/tree/master/2155-find-missing-observations) |
 ## Design
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Dineshsk12/Leetcode/tree/master/0068-text-justification) |
 | [0906-walking-robot-simulation](https://github.com/Dineshsk12/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Dineshsk12/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2155-find-missing-observations](https://github.com/Dineshsk12/Leetcode/tree/master/2155-find-missing-observations) |
 ## Binary Search
 |  |
 | ------- |
