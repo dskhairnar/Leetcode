@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dineshsk12/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/Dineshsk12/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## String Matching
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Dineshsk12/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Dineshsk12/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1484-linked-list-in-binary-tree](https://github.com/Dineshsk12/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Union Find
