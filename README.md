@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Dineshsk12/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Dineshsk12/Leetcode/tree/master/0179-largest-number) |
 | [0890-lemonade-change](https://github.com/Dineshsk12/Leetcode/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dineshsk12/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dineshsk12/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sorting
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dineshsk12/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dineshsk12/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dineshsk12/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Dineshsk12/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0392-is-subsequence](https://github.com/Dineshsk12/Leetcode/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/Dineshsk12/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dineshsk12/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Dineshsk12/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dineshsk12/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Dineshsk12/Leetcode/tree/master/1923-sentence-similarity-iii) |
