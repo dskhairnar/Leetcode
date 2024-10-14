@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Dineshsk12/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Dineshsk12/Leetcode/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dineshsk12/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Dineshsk12/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Dineshsk12/Leetcode/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dineshsk12/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Dineshsk12/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Dineshsk12/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Dineshsk12/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Dineshsk12/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Dineshsk12/Leetcode/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/Dineshsk12/Leetcode/tree/master/0274-h-index) |
 | [0539-minimum-time-difference](https://github.com/Dineshsk12/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dineshsk12/Leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Dineshsk12/Leetcode/tree/master/0274-h-index) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Dineshsk12/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dineshsk12/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Dineshsk12/Leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Dineshsk12/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Dineshsk12/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/Dineshsk12/Leetcode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dineshsk12/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/Dineshsk12/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dineshsk12/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -320,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Dineshsk12/Leetcode/tree/master/0432-all-oone-data-structure) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Dineshsk12/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
