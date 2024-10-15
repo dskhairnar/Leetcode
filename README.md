@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Dineshsk12/Leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Dineshsk12/Leetcode/tree/master/0274-h-index) |
+| [0383-ransom-note](https://github.com/Dineshsk12/Leetcode/tree/master/0383-ransom-note) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Dineshsk12/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dineshsk12/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Hash Table
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Dineshsk12/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Dineshsk12/Leetcode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dineshsk12/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/Dineshsk12/Leetcode/tree/master/0383-ransom-note) |
 | [0432-all-oone-data-structure](https://github.com/Dineshsk12/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dineshsk12/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0906-walking-robot-simulation](https://github.com/Dineshsk12/Leetcode/tree/master/0906-walking-robot-simulation) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Dineshsk12/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Dineshsk12/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Dineshsk12/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0383-ransom-note](https://github.com/Dineshsk12/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Dineshsk12/Leetcode/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/Dineshsk12/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dineshsk12/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
