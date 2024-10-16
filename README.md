@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Dineshsk12/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Dineshsk12/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Dineshsk12/Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Dineshsk12/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dineshsk12/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Dineshsk12/Leetcode/tree/master/0383-ransom-note) |
 | [0432-all-oone-data-structure](https://github.com/Dineshsk12/Leetcode/tree/master/0432-all-oone-data-structure) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Dineshsk12/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dineshsk12/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Dineshsk12/Leetcode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Dineshsk12/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Dineshsk12/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0383-ransom-note](https://github.com/Dineshsk12/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Dineshsk12/Leetcode/tree/master/0392-is-subsequence) |
