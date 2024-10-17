@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Dineshsk12/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dineshsk12/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Dineshsk12/Leetcode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Dineshsk12/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Dineshsk12/Leetcode/tree/master/0274-h-index) |
 | [0539-minimum-time-difference](https://github.com/Dineshsk12/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dineshsk12/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Dineshsk12/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Dineshsk12/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Dineshsk12/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Dineshsk12/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Dineshsk12/Leetcode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dineshsk12/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Dineshsk12/Leetcode/tree/master/0383-ransom-note) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Dineshsk12/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Dineshsk12/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Dineshsk12/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0242-valid-anagram](https://github.com/Dineshsk12/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Dineshsk12/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Dineshsk12/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Dineshsk12/Leetcode/tree/master/0392-is-subsequence) |
