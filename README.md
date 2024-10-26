@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dineshsk12/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dineshsk12/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dineshsk12/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Dineshsk12/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Dineshsk12/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/Dineshsk12/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Dineshsk12/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/Dineshsk12/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Dineshsk12/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/Dineshsk12/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Dineshsk12/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Union Find
 |  |
 | ------- |
@@ -312,15 +314,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/Dineshsk12/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/Dineshsk12/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Dineshsk12/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/Dineshsk12/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Dineshsk12/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/Dineshsk12/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/Dineshsk12/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Dineshsk12/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Bit Manipulation
 |  |
 | ------- |
