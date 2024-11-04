@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/Dineshsk12/Leetcode/tree/master/2580-circular-sentence) |
 | [2755-extra-characters-in-a-string](https://github.com/Dineshsk12/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Dineshsk12/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3451-string-compression-iii](https://github.com/Dineshsk12/Leetcode/tree/master/3451-string-compression-iii) |
 ## Trie
 |  |
 | ------- |
