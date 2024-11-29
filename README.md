@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/Dineshsk12/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Dineshsk12/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Dineshsk12/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Dineshsk12/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/Dineshsk12/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Dineshsk12/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Dineshsk12/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Dineshsk12/Leetcode/tree/master/0787-sliding-puzzle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Dineshsk12/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2089-maximum-matrix-sum](https://github.com/Dineshsk12/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Dineshsk12/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Dineshsk12/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Depth-First Search
 |  |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Dineshsk12/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Dineshsk12/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Dineshsk12/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Heap (Priority Queue)
 |  |
@@ -344,10 +347,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Dineshsk12/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dineshsk12/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Dineshsk12/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Dineshsk12/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Dineshsk12/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
 | ------- |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Dineshsk12/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Dineshsk12/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Linked List
 |  |
@@ -367,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Dineshsk12/Leetcode/tree/master/0787-sliding-puzzle) |
 | [1484-linked-list-in-binary-tree](https://github.com/Dineshsk12/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Dineshsk12/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Dineshsk12/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
