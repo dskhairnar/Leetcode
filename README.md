@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Dineshsk12/Leetcode/tree/master/0392-is-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Dineshsk12/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Dineshsk12/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Dineshsk12/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Dineshsk12/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/Dineshsk12/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dineshsk12/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/Dineshsk12/Leetcode/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Dineshsk12/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Dineshsk12/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Dineshsk12/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Dineshsk12/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Dineshsk12/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dineshsk12/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dineshsk12/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Dineshsk12/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/Dineshsk12/Leetcode/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Dineshsk12/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Simulation
 |  |
 | ------- |
