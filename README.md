@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dineshsk12/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Dineshsk12/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/Dineshsk12/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Dineshsk12/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dineshsk12/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dineshsk12/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Dineshsk12/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/Dineshsk12/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dineshsk12/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/Dineshsk12/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Dineshsk12/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Dineshsk12/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dineshsk12/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Dineshsk12/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Dineshsk12/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/Dineshsk12/Leetcode/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/Dineshsk12/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Dineshsk12/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
 | ------- |
