@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Dineshsk12/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/Dineshsk12/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Dineshsk12/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Dineshsk12/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Dineshsk12/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Dineshsk12/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Dineshsk12/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dineshsk12/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Dineshsk12/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Dineshsk12/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Dineshsk12/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3195-separate-black-and-white-balls](https://github.com/Dineshsk12/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/Dineshsk12/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Dineshsk12/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Dineshsk12/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Dineshsk12/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Dineshsk12/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting Sort
 |  |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Dineshsk12/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Dineshsk12/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2155-find-missing-observations](https://github.com/Dineshsk12/Leetcode/tree/master/2155-find-missing-observations) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Dineshsk12/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Design
 |  |
 | ------- |
@@ -251,11 +255,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dineshsk12/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Dineshsk12/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dineshsk12/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Dineshsk12/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dineshsk12/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Dineshsk12/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Dineshsk12/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## String
 |  |
 | ------- |
@@ -494,4 +500,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/Dineshsk12/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/Dineshsk12/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
