@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/Dineshsk12/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Dineshsk12/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Dineshsk12/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Dineshsk12/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Dineshsk12/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Dineshsk12/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Dineshsk12/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
