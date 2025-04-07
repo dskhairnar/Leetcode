@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Dineshsk12/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dineshsk12/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0407-trapping-rain-water-ii](https://github.com/Dineshsk12/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Dineshsk12/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0539-minimum-time-difference](https://github.com/Dineshsk12/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dineshsk12/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Dineshsk12/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dineshsk12/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0368-largest-divisible-subset](https://github.com/Dineshsk12/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Dineshsk12/Leetcode/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Dineshsk12/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Dineshsk12/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Dineshsk12/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Dineshsk12/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
