@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/Dineshsk12/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Dineshsk12/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Dineshsk12/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Dineshsk12/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Dineshsk12/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2155-find-missing-observations](https://github.com/Dineshsk12/Leetcode/tree/master/2155-find-missing-observations) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Dineshsk12/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Dineshsk12/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Design
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Dineshsk12/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Dineshsk12/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Dineshsk12/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Dineshsk12/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3451-string-compression-iii](https://github.com/Dineshsk12/Leetcode/tree/master/3451-string-compression-iii) |
 ## Trie
 |  |
