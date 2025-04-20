@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Dineshsk12/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Dineshsk12/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0787-sliding-puzzle](https://github.com/Dineshsk12/Leetcode/tree/master/0787-sliding-puzzle) |
+| [0797-rabbits-in-forest](https://github.com/Dineshsk12/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Dineshsk12/Leetcode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Dineshsk12/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1256-rank-transform-of-an-array](https://github.com/Dineshsk12/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Dineshsk12/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Dineshsk12/Leetcode/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dineshsk12/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0797-rabbits-in-forest](https://github.com/Dineshsk12/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Dineshsk12/Leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dineshsk12/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Dineshsk12/Leetcode/tree/master/1304-longest-happy-string) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Dineshsk12/Leetcode/tree/master/0383-ransom-note) |
 | [0432-all-oone-data-structure](https://github.com/Dineshsk12/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dineshsk12/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0797-rabbits-in-forest](https://github.com/Dineshsk12/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0906-walking-robot-simulation](https://github.com/Dineshsk12/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Dineshsk12/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1256-rank-transform-of-an-array](https://github.com/Dineshsk12/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Dineshsk12/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dineshsk12/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/Dineshsk12/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0797-rabbits-in-forest](https://github.com/Dineshsk12/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Dineshsk12/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Dineshsk12/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2155-find-missing-observations](https://github.com/Dineshsk12/Leetcode/tree/master/2155-find-missing-observations) |
